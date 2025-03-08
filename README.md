@@ -38,7 +38,7 @@ This project explores the development of a text summarization model using the `f
 
 ### 5. Model Evaluation
 
-- **Test Set Evaluation:** The model's performance is assessed using evaluation metrics like ROUGE.
+- **Test Set Evaluation:** The model's performance is assessed using evaluation metrics.
 - **Prediction Comparison:** Generated summaries are compared with reference summaries.
 
 ### 6. Making Predictions
